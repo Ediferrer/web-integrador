@@ -22,6 +22,6 @@ pagina de presentacion
 https://ww16.paleton.com/?sub1=20240526-0833-41b7-bbfd-a056710450e9
 
 ### colores
-
+#3345455
 
 ### imagenes

@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+header
+nav {
+    background-color: #3345455;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    margin: 0px;
+    max-height: 100px;
+    min-width: 100%;   
+    border-radius: 0px;
+    position: relative;
+
+
+
+    background-image: url(../imagen/LOGO\ .JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1em
+    margin: 0px;
+    position: :left; 
+}
+#principal {
+    background-image: url(../imagen/pagina-principal.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    margin: 0px;
+}
+
+section {
+    background-image: url(../imagen/pagina-segunda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    margin: 0px;
+}
+
+div.container {
+    margin: 0px;
+}
+
+h2 {
+    margin: 0px;
+}
+p {margin: 0px;}
